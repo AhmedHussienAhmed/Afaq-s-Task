@@ -1,0 +1,52 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "SetUp",
+        "name": "setUp",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1526304839330,
+      "duration": 0,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "testCal",
+        "resultFileName": "TestCal",
+        "sign": "calc.testCal()[pri:0, instance:test.calc@313b2ea6]"
+      },
+      "dependsOn": [],
+      "startTime": 1526304843854,
+      "duration": 10,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "Teardown",
+        "name": "teardown",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1526304843910,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

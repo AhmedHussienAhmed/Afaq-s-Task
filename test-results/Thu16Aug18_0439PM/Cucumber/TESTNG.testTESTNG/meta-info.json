@@ -1,0 +1,49 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "Login",
+        "name": "Login",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1534430387706,
+      "duration": 96,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "OpenURL",
+        "name": "openURL",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1534430387867,
+      "duration": 2,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "Logout",
+        "name": "Logout",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1534430388000,
+      "duration": 5,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 1,
+  "skip": 0,
+  "classes": [
+    "Tests.UserSignupTest"
+  ],
+  "envInfo": {
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "13-RC3",
+      "qaf-Build-Time": "12-Feb-2018 01:20:40",
+      "qaf-Version": "2.1"
+    },
+    "run-parameters": {},
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "12.0.1",
+      "os.arch": "amd64",
+      "host": "DESKTOP-8S5FVFF",
+      "os.name": "Windows 10",
+      "user.name": "Ahmed Ragab",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1563092724214,
+  "endTime": 1563092739362
+}

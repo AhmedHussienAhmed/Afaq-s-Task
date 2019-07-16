@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12933221-98c5-4412-ba59-c6e344965f6a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$/../" userTempatePath="" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/Pages/pageBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#pageBase#0;class#pageBase#0" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="method#scrollDown#0;class#pageBase#0" />
+                <element signature="method#scrollUp#0;class#pageBase#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SRC/Pages/UserSignupPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#clickOnRegister#0;class#UserSignupPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/Tests/testBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#startDriver#0;class#testBase#0" />
+                <element signature="e#612#672#0" />
+                <element signature="method#stopDriver#0;class#testBase#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/Pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#userSignIn#0;class#HomePage#0" />
+                <element signature="method#userNavigatesSignupPageToSignIn#0;class#HomePage#0" />
+                <element signature="method#userNavigatesSignupPage#0;class#HomePage#0" />
+                <element signature="method#userLogout#0;class#HomePage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/Tests/UserSignupTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/Tests/UserSignInTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SRC/Tests/HomePageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zone</find>
+      <find>Turn</find>
+      <find>back</find>
+      <find>try</find>
+      <find>navigate u</find>
+      <find>navigate up</find>
+      <find>ui</find>
+      <find>instance</find>
+      <find>navi</find>
+      <find>navigate</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SRC/test/calc.java" />
+        <option value="$PROJECT_DIR$/features/MSA.feature" />
+        <option value="$PROJECT_DIR$/features/MSA-Login.feature" />
+        <option value="$PROJECT_DIR$/SRC/MSA/msa.java" />
+        <option value="$PROJECT_DIR$/features/MSA-ExpectedCourses.feature" />
+        <option value="$PROJECT_DIR$/features/MSA-Cert.feature" />
+        <option value="$PROJECT_DIR$/SRC/MSA/Expectedcourses.java" />
+        <option value="$PROJECT_DIR$/MSA features/certificates.feature" />
+        <option value="$PROJECT_DIR$/SRC/MSA/certificates.java" />
+        <option value="$PROJECT_DIR$/MSA features/MSA-Login.feature" />
+        <option value="$PROJECT_DIR$/SRC/MSA/login.java" />
+        <option value="$PROJECT_DIR$/MSA features/login.feature" />
+        <option value="$PROJECT_DIR$/SRC/MSA/certificates/certificates.java" />
+        <option value="$PROJECT_DIR$/SRC/certififcates/cert.java" />
+        <option value="$PROJECT_DIR$/SRC/certificates/cert.java" />
+        <option value="$PROJECT_DIR$/SRC/MSA/login/certificates.java" />
+        <option value="$PROJECT_DIR$/features/msa-social.feature" />
+        <option value="$PROJECT_DIR$/features/Muse.feature" />
+        <option value="$PROJECT_DIR$/features/msa-notification.feature" />
+        <option value="$PROJECT_DIR$/features/compueme.feature" />
+        <option value="$PROJECT_DIR$/SRC/compume/task.java" />
+        <option value="$PROJECT_DIR$/features/fes-mekness-profile.feature" />
+        <option value="$PROJECT_DIR$/features/msa-news.feature" />
+        <option value="$PROJECT_DIR$/features/msa-discounts.feature" />
+        <option value="$PROJECT_DIR$/features2/playstore.feature" />
+        <option value="$PROJECT_DIR$/SRC/playstore/ps.java" />
+        <option value="$PROJECT_DIR$/SRC/TESTNG/testTESTNG.java" />
+        <option value="$PROJECT_DIR$/features/Demo.feature" />
+        <option value="$PROJECT_DIR$/SRC/fesmekness/ok.java" />
+        <option value="$PROJECT_DIR$/features/msa-certificates.feature" />
+        <option value="$PROJECT_DIR$/features/msa-login.feature" />
+        <option value="$PROJECT_DIR$/features/msa-expected course.feature" />
+        <option value="$PROJECT_DIR$/features/msa-remark.feature" />
+        <option value="$PROJECT_DIR$/features/msa-extra fees.feature" />
+        <option value="$PROJECT_DIR$/features/msa-advisingform.feature" />
+        <option value="$PROJECT_DIR$/SRC/MSA/login/login.java" />
+        <option value="$PROJECT_DIR$/features/fes-mekness.feature" />
+        <option value="$PROJECT_DIR$/features/COE.feature" />
+        <option value="$PROJECT_DIR$/SRC/Signup_Package.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SRC/Signup_Package/Test.java" />
+        <option value="$PROJECT_DIR$/TestData.scv" />
+        <option value="$PROJECT_DIR$/features/Signup.feature" />
+        <option value="$PROJECT_DIR$/SRC/Main.java" />
+        <option value="$PROJECT_DIR$/SRC/Signup_Package/Signup.java" />
+        <option value="$PROJECT_DIR$/SRC/Pages/pageBase.java" />
+        <option value="$PROJECT_DIR$/SRC/Pages/UserSignupPage.java" />
+        <option value="$PROJECT_DIR$/SRC/Tests/testBase.java" />
+        <option value="$PROJECT_DIR$/SRC/Tests/UserSignupTest.java" />
+        <option value="$PROJECT_DIR$/SRC/Pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/SRC/Tests/UserSignInTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Match_Macking" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Afaq-s-Task-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Afaq-s-Task-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Afaq-s-Task-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Afaq-s-Task-master" type="462c0819:PsiDirectoryNode" />
+              <item name="SRC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Afaq-s-Task-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Afaq-s-Task-master" type="462c0819:PsiDirectoryNode" />
+              <item name="SRC" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cucumber" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Cucumber" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/Work Files/Eclipse Workspaces/Cucumber/features/msa-news.feature&#10;logout &#9;PSI&#9;JAVA://MSA.login.login#logout" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Properties" />
+    <property name="last_opened_file_path" value="G:/nopCommerce" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a.ragab\Desktop\NewProject\Drivers" />
+      <recent name="E:\Work Files\Eclipse Workspaces\Cucumber\features" />
+      <recent name="C:\Users\a.ragab\Downloads\Eclipse Workspaces\Cucumber\SRC" />
+      <recent name="D:\New folder\Match_Macking" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Steps" />
+      <recent name="company" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Work Files\Eclipse Workspaces\Cucumber\features2" />
+      <recent name="E:\Work Files\Eclipse Workspaces\Cucumber\features" />
+      <recent name="E:\Work Files\Eclipse Workspaces\Cucumber\SRC" />
+      <recent name="E:\Work Files\Eclipse Workspaces\Cucumber\MSA features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.UserSignInTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Signup" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/features/Signup.feature" />
+      <option name="GLUE" value="Signup_Package" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Afaqy's Automation Task" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Signup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Check pagination" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/features/msa-advisingform.feature" />
+      <option name="GLUE" value="MSA.login" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Afaqy's Automation Task" />
+      <option name="NAME_FILTER" value="^Check pagination$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Check pagination$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Check pagination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User sign up for website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/features/Signup.feature" />
+      <option name="GLUE" value="Signup_Package" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Afaqy's Automation Task" />
+      <option name="NAME_FILTER" value="^User sign up for website$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User sign up for website$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User sign up for website" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Match_Macking" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSignInTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Afaqy's Automation Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.UserSignInTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSignupTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Afaqy's Automation Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.UserSignupTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSignupTest.UserRegisterSuccessfully" type="TestNG" nameIsGenerated="true">
+      <module name="Afaqy's Automation Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.UserSignupTest" />
+      <option name="METHOD_NAME" value="UserRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: Signup" />
+      <item itemvalue="Cucumber java.Scenario: Check pagination" />
+      <item itemvalue="Cucumber java.Scenario: User sign up for website" />
+      <item itemvalue="TestNG.UserSignInTest" />
+      <item itemvalue="TestNG.UserSignupTest" />
+      <item itemvalue="TestNG.UserSignupTest.UserRegisterSuccessfully" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserSignInTest" />
+        <item itemvalue="TestNG.UserSignupTest" />
+        <item itemvalue="Cucumber java.Feature: Signup" />
+        <item itemvalue="Cucumber java.Scenario: User sign up for website" />
+        <item itemvalue="Cucumber java.Scenario: Check pagination" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12933221-98c5-4412-ba59-c6e344965f6a" name="Default" comment="" />
+      <created>1522666569334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522666569334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserSignupTest - 2019.06.24 at 11h 38m 24s.xml">
+      <configuration name="UserSignupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UserSignupTest - 2019.06.24 at 11h 39m 17s.xml">
+      <configuration name="UserSignupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UserSignupTest - 2019.06.24 at 12h 15m 59s.xml">
+      <configuration name="UserSignupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UserSignupTest - 2019.06.24 at 12h 17m 55s.xml">
+      <configuration name="UserSignupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UserSignupTest - 2019.07.14 at 10h 23m 39s.xml">
+      <configuration name="UserSignupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UserSignupTest - 2019.07.14 at 10h 25m 39s.xml">
+      <configuration name="UserSignupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UserSignupTest - 2019.07.14 at 13h 09m 51s.xml">
+      <configuration name="UserSignupTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UserSignInTest - 2019.07.14 at 13h 11m 31s.xml">
+      <configuration name="UserSignInTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UserSignInTest - 2019.07.14 at 13h 13m 46s.xml">
+      <configuration name="UserSignInTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UserSignInTest - 2019.07.14 at 14h 50m 06s.xml">
+      <configuration name="UserSignInTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4939173" visible="true" weight="0.33736762" />
+      <window_info id="Structure" order="1" sideWeight="0.5060827" side_tool="true" weight="0.45763993" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4462935" weight="0.4680851" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" x="22" y="263" width="1322" height="201" id="TODO" order="6" sideWeight="0.49621785" type="FLOATING" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5537065" side_tool="true" weight="0.46895424" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4969743" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4924357" weight="0.32405892" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/features/Muse.feature" />
+    <entry file="file://$PROJECT_DIR$/SRC/Steps/Sample.java" />
+    <entry file="file://$PROJECT_DIR$/SRC/MuseReg/Main.java" />
+    <entry file="file://$PROJECT_DIR$/SRC/compume/task.java" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/TESTNG/testTESTNG.class" />
+    <entry file="file://$PROJECT_DIR$/Test Results - testTESTNG.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNG.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/TESTNG/testTESTNG.java" />
+    <entry file="file://$PROJECT_DIR$/features/Demo.feature" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/fesmekness/ok.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/FeatureBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Cucumber Jars/cucumber-core-2.4.0.jar!/cucumber/api/TestStep.class" />
+    <entry file="jar://$USER_HOME$/Cucumber Jars/cucumber-core-2.4.0.jar!/cucumber/runtime/StepDefinitionMatch.class" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="740" column="6" selection-start-line="740" selection-start-column="6" selection-end-line="740" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/fesmekness/ok.java" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/MSA/login/login.class" />
+    <entry file="file://$PROJECT_DIR$/features/msa-remark.feature" />
+    <entry file="file://$PROJECT_DIR$/features/msa-expected course.feature" />
+    <entry file="file://$PROJECT_DIR$/features/msa-login.feature" />
+    <entry file="file://$PROJECT_DIR$/features/msa-extra fees.feature" />
+    <entry file="file://$PROJECT_DIR$/features/msa-certificates.feature" />
+    <entry file="file://$PROJECT_DIR$/features/fes-mekness.feature" />
+    <entry file="file://$PROJECT_DIR$/features/msa-advisingform.feature" />
+    <entry file="file://$PROJECT_DIR$/SRC/MSA/login/login.java" />
+    <entry file="file://$PROJECT_DIR$/SRC/Signup_Package.java" />
+    <entry file="file://$PROJECT_DIR$/TestData.scv" />
+    <entry file="file://$PROJECT_DIR$/features/Signup.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/Main.java" />
+    <entry file="file://$PROJECT_DIR$/SRC/Signup_Package/Signup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="217" column="14" selection-start-line="217" selection-start-column="14" selection-end-line="232" selection-end-column="39" />
+          <folding>
+            <element signature="method#user_Open_URL#0;class#Signup#0" />
+            <element signature="method#validateThatWebsiteOpenedCorrectly#0;class#Signup#0" />
+            <element signature="method#click_on_Signin#0;class#Signup#0" />
+            <element signature="method#scrollDown#0;class#Signup#0" />
+            <element signature="e#2777#2806#0" expanded="true" />
+            <element signature="e#2777#2806#0" expanded="true" />
+            <element signature="method#validateSigninPage#0;class#Signup#0" />
+            <element signature="method#enterEmailAddress#0;class#Signup#0" />
+            <element signature="method#clickOnCreateAnAccount#0;class#Signup#0" />
+            <element signature="method#clickOnRegister#0;class#Signup#0" />
+            <element signature="method#userFillHisTitle#0;class#Signup#0" />
+            <element signature="method#userFillHisCustomerFirstname#0;class#Signup#0" />
+            <element signature="method#userFillHisCustomerLastname#0;class#Signup#0" />
+            <element signature="method#userFillHisPassword#0;class#Signup#0" />
+            <element signature="e#6924#6984#1" expanded="true" />
+            <element signature="method#userFillHisCompany#0;class#Signup#0" />
+            <element signature="method#userFillHisAddress#0;class#Signup#0" />
+            <element signature="method#userFillHisCity#0;class#Signup#0" />
+            <element signature="method#userFillHisState#0;class#Signup#0" />
+            <element signature="e#9390#9795#0" expanded="true" />
+            <element signature="e#9390#9795#0" expanded="true" />
+            <element signature="e#9538#9604#1" expanded="true" />
+            <element signature="method#userFillHisPostalCode#0;class#Signup#0" />
+            <element signature="method#userFillHisCountry#0;class#Signup#0" />
+            <element signature="method#userFillHisInfo#0;class#Signup#0" />
+            <element signature="method#userFillHisPhone#0;class#Signup#0" />
+            <element signature="e#11378#11436#1" expanded="true" />
+            <element signature="method#userFillHisAlias#0;class#Signup#0" />
+            <element signature="method#userFillHisFirstname#0;class#Signup#0" />
+            <element signature="method#userFillHisLastname#0;class#Signup#0" />
+            <element signature="method#userFillHisMobileNumber#0;class#Signup#0" />
+            <element signature="method#userFillHisAddressSecondLine#0;class#Signup#0" />
+            <element signature="method#signout#0;class#Signup#0" />
+            <element signature="method#validateLogin#0;class#Signup#0" />
+            <element signature="method#validateSigningOut#0;class#Signup#0" />
+            <element signature="method#closeWebsite#0;class#Signup#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestData.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="119" selection-start-column="113" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/Tests/testBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#startDriver#0;class#testBase#0" />
+            <element signature="e#612#672#0" />
+            <element signature="method#stopDriver#0;class#testBase#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/Tests/UserSignupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/Tests/UserSignInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/Tests/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/Pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#userSignIn#0;class#HomePage#0" />
+            <element signature="method#userNavigatesSignupPageToSignIn#0;class#HomePage#0" />
+            <element signature="method#userNavigatesSignupPage#0;class#HomePage#0" />
+            <element signature="method#userLogout#0;class#HomePage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/Pages/pageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pageBase#0;class#pageBase#0" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="method#scrollDown#0;class#pageBase#0" />
+            <element signature="method#scrollUp#0;class#pageBase#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SRC/Pages/UserSignupPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#clickOnRegister#0;class#UserSignupPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Cucumber</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>cucumber-jvm-deps-1.0.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

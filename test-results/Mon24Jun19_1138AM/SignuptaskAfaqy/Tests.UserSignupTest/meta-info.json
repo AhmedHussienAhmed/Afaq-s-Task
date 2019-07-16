@@ -1,0 +1,51 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "StartDriver",
+        "name": "startDriver",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1561369118727,
+      "duration": 11797,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "UserRegisterSuccessfully",
+        "name": "UserRegisterSuccessfully",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1561369130668,
+      "duration": 21836,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "StopDriver",
+        "name": "stopDriver",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1561369152560,
+      "duration": 4001,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

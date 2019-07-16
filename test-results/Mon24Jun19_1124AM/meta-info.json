@@ -1,0 +1,13 @@
+{
+  "name": "Default Suite",
+  "status": "pass",
+  "tests": [
+    "SignuptaskAfaqy"
+  ],
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1561368290215,
+  "endTime": 1561368320086
+}

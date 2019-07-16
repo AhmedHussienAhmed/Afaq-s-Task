@@ -1,0 +1,51 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "StartDriver",
+        "name": "startDriver",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1563102671332,
+      "duration": 8237,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "UserSignInSuccessfully",
+        "name": "UserSignInSuccessfully",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1563102679686,
+      "duration": 5103,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "StopDriver",
+        "name": "stopDriver",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1563102684897,
+      "duration": 6013,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

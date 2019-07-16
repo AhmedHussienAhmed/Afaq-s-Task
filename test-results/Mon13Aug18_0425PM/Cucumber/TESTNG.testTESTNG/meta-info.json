@@ -1,0 +1,19 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "OpenURL",
+        "name": "openURL",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1534170351554,
+      "duration": 102,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

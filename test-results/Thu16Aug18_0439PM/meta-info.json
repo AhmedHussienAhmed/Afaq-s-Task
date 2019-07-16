@@ -1,0 +1,13 @@
+{
+  "name": "Default Suite",
+  "status": "pass",
+  "tests": [
+    "Cucumber"
+  ],
+  "total": 3,
+  "pass": 3,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1534430387499,
+  "endTime": 1534430388174
+}

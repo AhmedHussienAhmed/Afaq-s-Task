@@ -1,0 +1,13 @@
+{
+  "name": "Default Suite",
+  "status": "unstable",
+  "tests": [
+    "AfaqsTaskmaster"
+  ],
+  "total": 1,
+  "pass": 0,
+  "fail": 0,
+  "skip": 1,
+  "startTime": 1563092618698,
+  "endTime": 1563092619343
+}

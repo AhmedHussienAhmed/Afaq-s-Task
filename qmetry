@@ -1,0 +1,17 @@
+automation.qmetry.enabled = true
+automation.qmetry.url = https://importresults.qmetry.com/prod/importresults-qtm4j
+automation.qmetry.apikey = d8f09e25276e488b22bd318b3c2689243a2c4319103eff902f0d7a1f8a895957
+automation.qmetry.testrunname = Test Run
+automation.qmetry.labels = lbl1,lbl2
+automation.qmetry.components = com1,com2
+automation.qmetry.version = v1,v2
+automation.qmetry.sprint = sprint11
+automation.qmetry.platform = chrome
+automation.qmetry.comment = this is test run comment
+automation.qmetry.testrunkey =
+automation.qmetry.testassethierarchy = TestCase-TestStep
+automation.qmetry.jirafields =
+automation.qmetry.debug = true
+automation.qmetry.username = admin
+automation.qmetry.password = admin
+

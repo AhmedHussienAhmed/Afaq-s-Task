@@ -1,0 +1,34 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "Login",
+        "name": "Login",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1534430411493,
+      "duration": 61,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "OpenURL",
+        "name": "openURL",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1534430411727,
+      "duration": 11,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}
